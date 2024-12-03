@@ -39,4 +39,5 @@ python main.py
 ```
 ## Video Demonstration
 Watch the working demo:
-[Download Magic Hands Video](magic_hands.mp4)
+
+[![Magic Hands - Hand Gesture Based Face Recognition](https://img.youtube.com/vi/v20WQAGGBIs/0.jpg)](https://www.youtube.com/watch?v=v20WQAGGBIs)
