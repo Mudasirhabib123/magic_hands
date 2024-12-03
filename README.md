@@ -20,7 +20,7 @@ cd magic_hands
 ### 2. Create and activate a virtual environment
 
 ```
-python3.7 -m venv venv
+python -m venv venv
 source venv/bin/activate  # macOS/Linux
 .\venv\Scripts\activate  # Windows
 ```
