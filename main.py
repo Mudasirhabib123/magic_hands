@@ -8,7 +8,7 @@ mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
-SERVER_URL = "http://127.0.0.1:8000"  # Replace with the server URL
+SERVER_URL = "http://127.0.0.1:8000" 
 
 prev_state = None
 captured_face_path = "captured_face.jpg"
