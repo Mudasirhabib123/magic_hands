@@ -39,6 +39,6 @@ python main.py
 ```
 ## Video Demonstration
 Watch the working demo:
+[Video](https://github.com/Mudasirhabib123/magic_hands/blob/main/magic_hands.mp4)
 
-[Watch the Demo Video](https://github.com/Mudasirhabib123/magic_hands/blob/main/magic_hands.mp4)
 
